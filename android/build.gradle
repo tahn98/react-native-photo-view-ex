@@ -56,6 +56,7 @@ repositories {
 }
 
 dependencies {
+    implementation 'androidx.annotation:annotation:1.1.0'
     compileOnly 'com.facebook.react:react-native:+'
     implementation 'me.relex:photodraweeview:1.1.3'
 }
